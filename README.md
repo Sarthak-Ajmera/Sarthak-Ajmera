@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="350" height="450"  src="https://library.kissclipart.com/20180915/seq/kissclipart-software-engineer-clipart-programmer-computer-soft-d3b78649ef4a485f.png" >
+<img align="right" alt="coding" width="350" height="400"  src="https://library.kissclipart.com/20180915/seq/kissclipart-software-engineer-clipart-programmer-computer-soft-d3b78649ef4a485f.png" >
      
 <h1 align="center">Hi 👋, I'm Sarthak Ajmera</h1>
 <h3 align="center">A youngster taking some BIG DECISIONS.</h3>
