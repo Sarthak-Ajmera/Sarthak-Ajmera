@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-ajmera&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-ajmera" /> </p>
 
-- 🔭 I’m currently working on **FRONT END WEB DEVELOPMENT**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **ADVANCED JAVA**
 
 - 💬 Ask me about **ANDROID DEVELOPMENT & TECH RELATED STUFF**
 
