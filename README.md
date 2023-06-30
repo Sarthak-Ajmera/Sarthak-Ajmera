@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-ajmera&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-ajmera" /> </p>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently preparing for **GATE 2024**
 
-- 🌱 I’m currently learning **ADVANCED JAVA**
+- 🌱 I’m currently learning **LINUX**
 
-- 💬 Ask me about **ANDROID DEVELOPMENT & TECH RELATED STUFF**
+- 💬 Ask me about **CLOUD ENGINEERING | DEVOPS | NETWORKING | DATABASE | LATEST TECHNOLOGIES**
 
 - 📫 How to reach me **ajmera.sarthak3@gmail.com**
 
